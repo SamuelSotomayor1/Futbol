@@ -1,0 +1,38 @@
+{
+    "tecnicos" : [
+        {
+            "nombre": "Josep",
+            "apellido": "Guardiola",
+            "edad": "50",
+            "materias": [
+                {
+                    "nombre": "Formacion"
+                },
+                {
+                    "nombre": "Tactica"
+                },
+                {
+                    "nombre": "Posesion"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Lionel"
+        },
+        {
+            "nombre": "Xavi"
+        }
+    ],
+   "copas": [
+        {
+            "nombre": "Champions League",
+            "duracion": "15 meses"
+        },
+        {
+            "nombre": "Liga",
+            "duracion": "12 meses"
+        }
+   ]
+}
